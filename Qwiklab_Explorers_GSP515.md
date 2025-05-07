@@ -7,14 +7,13 @@
 #### This script and guide are provided for educational purposes to help you understand the lab process. Please ensure you understand the steps before using any scripts. Before using the script, I encourage you to open and review it to understand each step.The goal is to help you learn how to complete the labs effectively while following Qwiklabs' terms of service and YouTube's community guidelines.
 ---
 
- - ### Copy & Run the Commands in new Terminal of Juypeter Notebook :
+ - ### Copy & Run the Commands in new Terminal of Jupyter Notebook :
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/BigQuery-Qwik-Start---Command-Line-GSP071-Updated/refs/heads/main/qwiklab_explorers_gsp071.sh
+rm gemini-explorer-challenge-v2.0.0.ipynb
 
-sudo chmod +x qwiklab_explorers_gsp071.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Explore-Generative-AI-with-the-Gemini-API-in-Vertex-AI-Challenge-Lab-GSP515-Updated/refs/heads/main/gemini-explorer-challenge-v2.0.0.ipynb
 
-./qwiklab_explorers_gsp071.sh
 ```
 
 ---
